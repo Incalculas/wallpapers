@@ -6,6 +6,10 @@ Collection of wallpapers I use.
 
 Check out [**RWall**](https://github.com/KingBenny101/rwall) - an app designed to easily manage this wallpaper collection. It provides a simple interface to browse, organize, and set wallpapers from this repository.
 
+## RWall-Web
+
+Explore [**RWall-Web**](https://kingbenny101.github.io/rwall-web/) - a web-based wallpaper browser for this collection. It allows you to view and download wallpapers directly from your browser.
+
 ## Sources
 
 - **rwallpapers**: Top posts of all time from [r/wallpapers](https://reddit.com/r/wallpapers)
