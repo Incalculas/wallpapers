@@ -1,3 +1,7 @@
+---
+hide:
+    - navigation
+---
 # Wallpapers
 
 ## How to Use
