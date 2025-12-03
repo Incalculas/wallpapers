@@ -2,3 +2,9 @@
 test/
 dump/
 site/
+
+processed_images.txt
+
+# Ignore all markdown files in docs except index.md
+docs/*.md
+!docs/index.md
