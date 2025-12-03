@@ -1,2 +1,5 @@
 .vscode/
 test/
+dump/
+
+processed_images.txt
