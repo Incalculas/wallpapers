@@ -4,6 +4,14 @@ site_author: 'KingBenny101'
 repo_url: 'https://github.com/KingBenny101/wallpapers/'
 repo_name: 'KingBenny101/wallpapers'
 
+nav:
+  - Anime: anime.md
+  - Space: space.md
+  - Landscape: landscape.md
+  - Mythological: mythological.md
+  - Realistic: realistic.md
+  - Uncategorized: uncategorized.md
+
 theme:
   name: 'material'
   features:
